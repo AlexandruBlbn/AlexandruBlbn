@@ -1,6 +1,5 @@
-## Hi there, I'm Alex
+# Hi there, I'm Alex
 
-# 💫 About Me:
 Electrical Engineering and Computer Science student.<br>I develop practical solutions for real world problems.<br>I have interests in machine learning, CRUD and web apps.<br>
 
 
